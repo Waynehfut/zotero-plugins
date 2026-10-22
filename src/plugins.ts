@@ -4559,6 +4559,23 @@ export const plugins: PluginInfoBase[] = [
     discoverReleases: true,
   },
   {
+    repo: 'Waynehfut/Paper-Miner',
+    releases: [
+      {
+        targetZoteroVersion: '10',
+        tagName: 'v0.1.8',
+        assetName: 'paper-miner.xpi',
+      },
+    ],
+    tags: [
+      'ai',
+      'reader',
+      'notes',
+      'metadata',
+    ],
+    discoverReleases: true,
+  },
+  {
     repo: 'wcmendes/MdBundle-for-Zotero',
     releases: [
       {

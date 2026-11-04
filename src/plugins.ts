@@ -3909,7 +3909,7 @@ export const plugins: PluginInfoBase[] = [
     releases: [
       {
         targetZoteroVersion: '10',
-        tagName: 'v0.1.11',
+        tagName: 'v0.1.12',
         assetName: 'dual-title.xpi',
       },
     ],
@@ -4011,7 +4011,7 @@ export const plugins: PluginInfoBase[] = [
     releases: [
       {
         targetZoteroVersion: '10',
-        tagName: 'v0.1.11',
+        tagName: 'v0.1.12',
         assetName: 'zotero-wordbook-0.1.9.xpi',
       },
     ],
@@ -4469,7 +4469,7 @@ export const plugins: PluginInfoBase[] = [
     releases: [
       {
         targetZoteroVersion: '9',
-        tagName: 'v0.1.117',
+        tagName: 'v0.1.127',
         assetName: 'mineru-html-parser-0.1.97.xpi',
       },
     ],
@@ -4563,7 +4563,7 @@ export const plugins: PluginInfoBase[] = [
     releases: [
       {
         targetZoteroVersion: '10',
-        tagName: 'v0.1.11',
+        tagName: 'v0.1.12',
         assetName: 'paper-miner.xpi',
       },
     ],

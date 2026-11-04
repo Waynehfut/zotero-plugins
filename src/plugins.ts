@@ -3909,7 +3909,7 @@ export const plugins: PluginInfoBase[] = [
     releases: [
       {
         targetZoteroVersion: '10',
-        tagName: 'v0.1.8',
+        tagName: 'v0.1.9',
         assetName: 'dual-title.xpi',
       },
     ],
@@ -4563,7 +4563,7 @@ export const plugins: PluginInfoBase[] = [
     releases: [
       {
         targetZoteroVersion: '10',
-        tagName: 'v0.1.8',
+        tagName: 'v0.1.9',
         assetName: 'paper-miner.xpi',
       },
     ],
